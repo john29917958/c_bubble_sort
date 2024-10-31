@@ -7,7 +7,7 @@
       "args": [
         "-fdiagnostics-color=always",
         "-g",
-        "${workspaceFolder}/bubble_sort.c",
+        "${workspaceFolder}/src/bubble_sort.c",
         "-o",
         "${workspaceFolder}/build/Bubble sort"
       ],
